@@ -7,11 +7,11 @@ A Claude skill for generating comprehensive, standardized documentation for Powe
 ## 📁 What's in this repository
 
 ```
-skills/
-└── powerbi-documentation.md        # The skill definition file used by Claude
+powerbi-mcp-documentation/
+└── SKILL.md        # The skill definition file used by Claude
 ```
 
-The `powerbi-documentation.md` file contains all instructions, workflow logic, formatting rules, and output templates that guide Claude through the documentation process.
+The `SKILL.md` file contains all instructions, workflow logic, formatting rules, and output templates that guide Claude through the documentation process.
 
 ---
 
